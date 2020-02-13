@@ -1,6 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea to us!
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -17,4 +20,3 @@ about: Suggest an idea to us!
 
 
 **How is this beneficial to Lighthouse?**
-
